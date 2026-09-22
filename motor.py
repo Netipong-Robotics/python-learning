@@ -6,3 +6,5 @@ class Motor:
     def stop(self):
         print("Motor stopped")
 	
+    def forward(self):
+        print("Motor forward")
